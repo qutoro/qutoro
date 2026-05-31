@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет! Я qutoro 
 
-<!--
-**qutoro/qutoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Игры и разработка — это то, чем я горю. Создаю проекты на C# и Python, собираю 3D-сцены в Blender и разбираюсь в мультиплеере.
 
-Here are some ideas to get you started:
+##  Мой стек технологий
+<p id="badges">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Как со мной связаться
+* Telegram: [@Ermekarsen]
+* Discord: [nigerundayo__]
+*
